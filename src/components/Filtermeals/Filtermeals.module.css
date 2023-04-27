@@ -1,0 +1,29 @@
+.Filtermeals{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    left: 0;
+    right: 0;
+    height: 120rem;
+    background-color: #fff;
+    z-index: 99;
+    border-bottom: 1px #f2f2f2 solid;
+    position: fixed;
+}
+.inputer{
+    position: relative;
+    align-items: center;
+    display: flex;}
+.inputicon{
+    font-size: 40rem;
+    position: absolute;
+    left: -50rem;
+    color: #aaa;
+}
+.inputtext{
+    width: 600rem;
+    height: 70rem;
+    border-radius: 16px;
+    border: none;
+    background-color: #f2f2f2;
+}
